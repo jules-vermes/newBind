@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: newBind
+## Notes: Hoverbind functionality for default WoW UI
+## Author: nb
+## Version: 1.0
+## SavedVariables: newBindDB
+
+newBind.lua 
