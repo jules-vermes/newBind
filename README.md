@@ -46,7 +46,7 @@ A hoverbind addon for World of Warcraft 1.12 (Vanilla) that allows you to bind k
 - `/kb` - Short command for hoverbind mode
 
 ## Notes
-
+- Made for Turtle Wow but it will work with any 1.12 server
 - The addon automatically saves bindings when you create them
 - Bindings are cleared when you press Escape while hovering over a button
 - The addon is disabled during combat for safety
