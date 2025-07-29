@@ -43,7 +43,7 @@ A hoverbind addon for World of Warcraft 1.12 (Vanilla) that allows you to bind k
 ## Commands
 
 - `/newbind` - Activate hoverbind mode
-- `/nb` - Short command for hoverbind mode
+- `/kb` - Short command for hoverbind mode
 
 ## Notes
 
