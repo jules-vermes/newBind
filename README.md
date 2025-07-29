@@ -50,7 +50,7 @@ A hoverbind addon for World of Warcraft 1.12 (Vanilla) that allows you to bind k
 - The addon automatically saves bindings when you create them
 - Bindings are cleared when you press Escape while hovering over a button
 - The addon is disabled during combat for safety
-- Works with the default WoW UI, no additional UI addons required
+- Works with the default WoW UI, no additional UI addons required. Fully functionnal with Dragonflight : Reloaded UI and maybe others.
 
 ## Credits
 
